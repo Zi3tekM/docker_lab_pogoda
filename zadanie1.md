@@ -3,6 +3,7 @@ Sprawozdanie: Zadanie 1 - Programowanie Aplikacji w Chmurze Obliczeniowej
 
 Autor: Michał Ziętek
 
+Link Dockerhub: https://hub.docker.com/r/zietekm812/docker-lab-pogoda
 # 1. Kod źródłowy aplikacji
   Aplikacja została opracowana w języku Python przy użyciu frameworka Flask.  
   
