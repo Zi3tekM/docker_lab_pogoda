@@ -10,7 +10,7 @@ Link Dockerhub: https://hub.docker.com/r/zietekm812/docker-lab-pogoda
   Funkcjonalność:  
   Logi startowe (Wymóg 1a): Po uruchomieniu kontenera aplikacja pozostawia w logach informację o dacie uruchomienia, autorze oraz porcie TCP.  
   Interfejs użytkownika (Wymóg 1b): Aplikacja pozwala na wybór kraju (Polska, Niemcy, Francja) oraz miasta z listy.  
-  Dane pogodowe: System wyświetla aktualną temperaturę, wilgotność, prędkość wiatru, ciśnienie, opady oraz zachmurzenie w wybranej lokalizacji wraz z czasem pomiaru.
+  Dane pogodowe: System wyświetla aktualną temperaturę, wilgotność, prędkość wiatru, ciśnienie, opady oraz zachmurzenie w wybranej lokalizacji.
 
 # 2. Plik Dockerfile
   Zastosowano:  
