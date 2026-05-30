@@ -13,6 +13,7 @@ Zgodnie z wymaganiami projektowymi, proces budowania celowo zatrzymuje się na t
 - Skaner Trivy wykrył w obrazie bazowym podatności sklasyfikowane jako wysokie/krytyczne.
 - Pipeline zwrócił kod błędu (Exit Code 1), co **skutecznie zablokowało** wykonanie kolejnego kroku (wypchnięcia obrazu do rejestru GHCR).
 - Cel projektowy został osiągnięty: system dystrybucji kodu zabezpiecza publiczne repozytorium przed publikacją obrazu zawierającego krytyczne zagrożenia.
+- Załączony został zrzut ekranu (Github_actions.png) pokazujący wyniki z Github Actions
 
 ## 3. Strategia tagowania (Uzasadnienie - dodatkowe punkty)
 W projekcie przyjęto następujący schemat tagowania, oparty o dobre praktyki (best practices) automatyzacji:
